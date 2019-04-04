@@ -39,5 +39,5 @@ Start the docker service (as root): service docker start<br>
 18. rm -r ROOT<br>
 19. mv WeatherForecast ROOT<br>
 20. exit<br>
-21. To commit the docker: docker commit newwebserver:final<br>
+21. To commit the docker:  docker commit newwebserver:final<br>
 22. To save docker images and create .tar file docker save > output.tar<br>
